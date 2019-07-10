@@ -1,0 +1,15 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "main": "books.js",
+  "scripts": {
+    "start": "nodemon books.js"
+  },
+  "author": "Roman Ceresnak",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "nodemon": "^1.19.1"
+  }
+}
